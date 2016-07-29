@@ -1,32 +1,36 @@
 {
-  "name": "laravel-elixir-vueify",
-  "version": "1.0.4",
-  "description": "Laravel Elixir Vueify Support",
+  "name": "laravel-elixir-vueify-2.0",
+  "version": "1.0.0",
+  "description": "Laravel Elixir Vueify Support (for Vue 2.0)",
   "main": "index.js",
   "keywords": [
     "laravel",
     "elixir",
     "vueify",
-    "vue"
+    "vue",
+    "vue 2.0"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/JeffreyWay/laravel-elixir-vueify"
+    "url": "https://github.com/andreasindal/laravel-elixir-vueify"
   },
-  "author": "Jeffrey Way",
+  "authors": [
+    "Jeffrey Way",
+    "Andreas Indal"
+  ],
   "license": "MIT",
-  "homepage": "https://github.com/JeffreyWay/laravel-elixir-vueify",
+  "homepage": "https://github.com/andreasindal/laravel-elixir-vueify",
   "bugs": {
-    "url": "https://github.com/JeffreyWay/laravel-elixir-vueify/issues"
+    "url": "https://github.com/andreasindal/laravel-elixir-vueify/issues"
   },
   "dependencies": {
     "babel-core": "^6.3.26",
     "babel-plugin-transform-runtime": "^6.3.13",
     "babel-preset-es2015": "^6.3.13",
     "babel-runtime": "^6.0.0",
-    "vue": "^1.0.20",
-    "vueify": "^8.3.0",
-    "vue-hot-reload-api": "^1.2.2",
+    "vue": "^2.0.0-beta.5",
+    "vueify": "^9.2.4",
+    "vue-hot-reload-api": "2.0.5",
     "vueify-insert-css": "^1.0.0"
   }
 }

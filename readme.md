@@ -1,5 +1,7 @@
 # Usage
 
+**Note:** Jeffrey Way is the original author of this package ([found here](https://github.com/JeffreyWay/laravel-elixir-vueify). All credit goes to him. I just forked it and bumped the vueify version to work with vue 2.0)
+
 ## Step 1: Install
 
 ```
@@ -13,7 +15,7 @@ Within your main `Gulpfile`, add:
 ```js
 var elixir = require('laravel-elixir');
 
-require('laravel-elixir-vueify');
+require('laravel-elixir-vueify-2.0');
 
 elixir(function(mix) {
     mix.browserify('main.js');
