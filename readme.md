@@ -1,6 +1,6 @@
 # Usage
 
-**Note:** Jeffrey Way is the original author of this package ([found here](https://github.com/JeffreyWay/laravel-elixir-vueify). All credit goes to him. I just forked it and bumped the vueify version to work with vue 2.0)
+**Note:** [Jeffrey Way](https://github.com/JeffreyWay) is the original author of this package ([found here](https://github.com/JeffreyWay/laravel-elixir-vueify)). All credit goes to him. I just forked it and bumped the vueify version to work with vue 2.0)
 
 ## Step 1: Install
 
