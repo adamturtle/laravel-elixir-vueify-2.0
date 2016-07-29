@@ -5,7 +5,7 @@
 ## Step 1: Install
 
 ```
-npm install laravel-elixir-vueify
+npm install laravel-elixir-vueify-2.0
 ```
 
 ## Step 2: Require
